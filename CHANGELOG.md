@@ -20,6 +20,10 @@ All Notable changes to `MenuManager` will be documented in this file
 - Nothing
 
 
+## [1.0.1] - 2015-09-10
+
+### Fixed
+- composer.json dependencies
 
 ## [1.0.0] - 2015-09-08
 
