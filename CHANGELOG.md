@@ -19,6 +19,10 @@ All Notable changes to `MenuManager` will be documented in this file
 ### Security
 - Nothing
 
+## [1.0.2] - 2015-09-11
+
+### Added
+- MenuItem::getTree() method to fetch all menu items and nest their children;
 
 ## [1.0.1] - 2015-09-10
 
