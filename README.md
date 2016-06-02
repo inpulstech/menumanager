@@ -9,6 +9,13 @@
 
 Add/edit/delete/reorder/nest menu items interface for Laravel's Dick Admin.
 
+
+---------------------
+**THERE ARE BETTER THINGS THAN DICK**
+**The Dick project is no longer actively maintained. For important projects please use the new version: [Laravel Backpack](http://laravelbackpack.com).**
+---------------------
+
+
 ## Install
 
 Via Composer
